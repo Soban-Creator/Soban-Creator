@@ -88,5 +88,3 @@ An end-to-end machine learning application for estimating residential property p
 - **GitHub:** [Soban-Creator](https://github.com/Soban-Creator)
 
 I'm always interested in learning, collaborating, and building meaningful software.
-...
--->
